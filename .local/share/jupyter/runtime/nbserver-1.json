@@ -1,11 +1,11 @@
 {
-  "base_url": "/binder/jupyter/user/sophia8684-2020-ky-intro-python-iv02pccl/",
+  "base_url": "/user/sophia8684-2020-ky-intro-python-fusoqgpu/",
   "hostname": "0.0.0.0",
   "notebook_dir": "/home/jovyan",
   "password": false,
   "pid": 1,
   "port": 8888,
   "secure": false,
-  "token": "ayZOs5xDSGC1bBpwaHLZKA",
-  "url": "http://0.0.0.0:8888/binder/jupyter/user/sophia8684-2020-ky-intro-python-iv02pccl/"
+  "token": "gVZKNz0CSAuORONpDEEb0g",
+  "url": "http://0.0.0.0:8888/user/sophia8684-2020-ky-intro-python-fusoqgpu/"
 }
